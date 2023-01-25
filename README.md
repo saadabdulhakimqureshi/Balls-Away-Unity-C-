@@ -12,3 +12,9 @@ Unity Version: 2021.3.15f1
 Unity 2D Mobile Template
 
 ### Assets Used
+
+### Final Build
+Please refer to the touch controls branch for final build of the game.
+
+### Run
+Open the project using Unity Editor. Open Menu scene inside scenes and run the game.
