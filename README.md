@@ -11,7 +11,8 @@ Unity Version: 2021.3.15f1
 ### Setup
 Unity 2D Mobile Template
 
-### Assets Used
+### Snapshots
+See the snapshots folder to view snippets of the game.
 
 ### Final Build
 Please refer to the touch controls branch for final build of the game.
