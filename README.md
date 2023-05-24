@@ -9,6 +9,10 @@ If you get hit 5 times the game is over.
 The difficulty of the game effects the speed of the enemies.
 Both your high score and current score is shown on top.
 
+## Run
+
+To play the game install the apk file in root directory.
+
 ## Snapshots
 
 See the snapshots folder to view snippets of the game.
