@@ -22,7 +22,7 @@ To play the game install the apk file in root directory.
 
 ## Snapshots
 
-![Alt text](/Snapshots/1.PNG?raw=true "[1]")
+![Alt text](/Snapshots/1.PNG?raw=true "[1]") ![Alt text](/Snapshots/2.PNG?raw=true "[2]") ![Alt text](/Snapshots/3.PNG?raw=true "[3]")
 
 ## Implementation
 
