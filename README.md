@@ -22,7 +22,7 @@ To play the game install the apk file in root directory.
 
 ## Snapshots
 
-See the snapshots folder to view snippets of the game.
+![Alt text](/Snapshots/1.PNG?raw=true "[1]")
 
 ## Implementation
 
