@@ -14,4 +14,5 @@ See the snapshots folder to view snippets of the game.
 ## Implementation
 
 Unity Version: 2021.3.15f1
+
 Template: Unity 2D Mobile
