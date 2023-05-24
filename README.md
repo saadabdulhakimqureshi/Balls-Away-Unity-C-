@@ -1,5 +1,7 @@
 # Balls-Away-Unity
 
+Balls Away is a Unity 2D Android arcade style game.
+
 ## Rules
 
 Avoid the red balls. If you get hit your ball becomes smaller and the enemy balls become faster. 
